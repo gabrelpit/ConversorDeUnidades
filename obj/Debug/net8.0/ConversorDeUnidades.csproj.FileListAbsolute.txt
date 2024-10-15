@@ -1,0 +1,15 @@
+D:\main\C#\ConversorDeUnidades\bin\Debug\net8.0\ConversorDeUnidades.exe
+D:\main\C#\ConversorDeUnidades\bin\Debug\net8.0\ConversorDeUnidades.deps.json
+D:\main\C#\ConversorDeUnidades\bin\Debug\net8.0\ConversorDeUnidades.runtimeconfig.json
+D:\main\C#\ConversorDeUnidades\bin\Debug\net8.0\ConversorDeUnidades.dll
+D:\main\C#\ConversorDeUnidades\bin\Debug\net8.0\ConversorDeUnidades.pdb
+D:\main\C#\ConversorDeUnidades\obj\Debug\net8.0\ConversorDeUnidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\main\C#\ConversorDeUnidades\obj\Debug\net8.0\ConversorDeUnidades.AssemblyInfoInputs.cache
+D:\main\C#\ConversorDeUnidades\obj\Debug\net8.0\ConversorDeUnidades.AssemblyInfo.cs
+D:\main\C#\ConversorDeUnidades\obj\Debug\net8.0\ConversorDeUnidades.csproj.CoreCompileInputs.cache
+D:\main\C#\ConversorDeUnidades\obj\Debug\net8.0\ConversorDeUnidades.sourcelink.json
+D:\main\C#\ConversorDeUnidades\obj\Debug\net8.0\ConversorDeUnidades.dll
+D:\main\C#\ConversorDeUnidades\obj\Debug\net8.0\refint\ConversorDeUnidades.dll
+D:\main\C#\ConversorDeUnidades\obj\Debug\net8.0\ConversorDeUnidades.pdb
+D:\main\C#\ConversorDeUnidades\obj\Debug\net8.0\ConversorDeUnidades.genruntimeconfig.cache
+D:\main\C#\ConversorDeUnidades\obj\Debug\net8.0\ref\ConversorDeUnidades.dll
